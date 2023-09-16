@@ -1,9 +1,10 @@
-import { Text } from "@chakra-ui/react";
-import { HeroSection } from "../../components";
+import { Banners, HeroSection, Partners } from "../../components";
 const Home = () => {
   return (
     <>
       <HeroSection />
+      <Partners />
+      <Banners />
     </>
   );
 };

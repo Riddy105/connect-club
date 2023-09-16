@@ -7,10 +7,13 @@ const theme = extendTheme({
     grey: {
       100: "#F4EFEF",
       200: "#D2DADA",
+      300: "#45484F",
+      400: "rgba(51, 51, 51, 0.70)",
     },
     black: {
       100: "#000",
       200: "#2F2F2F",
+      300: "#292929",
     },
     white: {
       100: "#fff",
