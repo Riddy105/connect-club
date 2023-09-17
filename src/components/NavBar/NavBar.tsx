@@ -93,15 +93,16 @@ const MobileNav = (props: any) => {
     <Flex
       display={["flex", null, "none"]}
       position="absolute"
-      w="100vw"
+      left="20px"
+      w="90vw"
       h="100vh"
-      bgColor="grey.200"
+      bgColor="#eee"
       direction="column"
       gap="24px"
       alignItems="center"
       justifyContent="center"
       zIndex="10"
-      transform={navOpen ? "translateX(0)" : "translateX(100%)"}
+      transform={navOpen ? "translateX(0)" : "translateX(120%)"}
       transition="all 1s"
     >
       <Link to="/" className="link" style={{ color: "#000" }}>

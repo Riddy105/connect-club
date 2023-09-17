@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Grid, Text, Flex, Image } from "@chakra-ui/react";
 import { FooterLinksProps } from "../../interface";
 import { Link } from "react-router-dom";
