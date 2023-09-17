@@ -6,3 +6,4 @@ export { default as Packages } from "./Packages/Packages";
 export { default as Carousel } from "./Carousel/Carousel";
 export { default as Testimonials } from "./Testimonials/Testimonials";
 export { default as FaqSection } from "./FaqSection/FaqSection";
+export { default as Footer } from "./Footer/Footer";

@@ -179,3 +179,20 @@ export const FAQS = [
       "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
   },
 ];
+
+export const FOOTER_LINKS = [
+  {
+    title: "company",
+    links: ["About Us", "Careers", "News", "Contact"],
+  },
+  {
+    title: "resources",
+    links: ["Events", "Blogs", "Newsletter"],
+  },
+  {
+    title: "company",
+    links: ["Terms", "Privacy", "Condition", "Guidelines", "License"],
+  },
+];
+
+export const SOCIALS = [instagram, facebook, twitter];

@@ -15,3 +15,8 @@ export interface FaqBlockProps {
   answer: string;
   index: number;
 }
+
+export interface FooterLinksProps {
+  title: string;
+  links: string[];
+}

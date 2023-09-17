@@ -2,6 +2,7 @@ import {
   Banners,
   Carousel,
   FaqSection,
+  Footer,
   HeroSection,
   Packages,
   Partners,
@@ -17,6 +18,7 @@ const Home = () => {
       <Carousel />
       <Testimonials />
       <FaqSection />
+      <Footer />
     </>
   );
 };
