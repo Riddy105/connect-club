@@ -4,7 +4,12 @@ import { PackageBoxProps } from "../../interface";
 import { PACKAGES } from "../../utils/data";
 const Packages = () => {
   return (
-    <Box as="section" className="container" mt={["32px", null, "64px"]}>
+    <Box
+      as="section"
+      className="container"
+      mt={["32px", null, "64px"]}
+      mb={["50px", null, "100px"]}
+    >
       <Flex direction="column" alignItems="center">
         <Text
           as="h2"

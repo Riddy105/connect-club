@@ -1,4 +1,11 @@
-import { Banners, HeroSection, Packages, Partners } from "../../components";
+import {
+  Banners,
+  Carousel,
+  HeroSection,
+  Packages,
+  Partners,
+  Testimonials,
+} from "../../components";
 const Home = () => {
   return (
     <>
@@ -6,6 +13,8 @@ const Home = () => {
       <Partners />
       <Banners />
       <Packages />
+      <Carousel />
+      <Testimonials />
     </>
   );
 };

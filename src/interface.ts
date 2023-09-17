@@ -6,3 +6,6 @@ export interface BannerCardProps {
 export interface PackageBoxProps {
   data: any;
 }
+export interface TestimonialCardProps {
+  data: any;
+}

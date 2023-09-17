@@ -4,6 +4,11 @@ import {
   consulting,
   partnerships,
   presentation,
+  promise,
+  twitter,
+  facebook,
+  instagram,
+  ridwan,
 } from "../assets";
 export const BANNERS = [
   {
@@ -94,5 +99,50 @@ export const PACKAGES = [
       "Free AD days on CN Platform",
       "Meet the boss session for CEO",
     ],
+  },
+];
+
+export const TESTIMONIALS = [
+  {
+    name: "Olaniran Ridwan",
+    username: "@rydd_1ne",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: ridwan,
+    social: twitter,
+  },
+  {
+    name: "Promise Olaifa",
+    username: "@omoniyiux",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: promise,
+    social: facebook,
+  },
+  {
+    name: "Olaniran Ridwan",
+    username: "@ryyd_1ne",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: ridwan,
+    social: instagram,
+  },
+  {
+    name: "Promise Olaifa",
+    username: "@omoniyiux",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: promise,
+    social: facebook,
+  },
+  {
+    name: "Olaniran Ridwan",
+    username: "@rydd_1ne",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: ridwan,
+    social: instagram,
+  },
+  {
+    name: "Promise Olaifa",
+    username: "@omoniyiux",
+    text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
+    avatar: promise,
+    social: twitter,
   },
 ];
