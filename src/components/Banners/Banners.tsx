@@ -18,9 +18,10 @@ const Banners = () => {
         </Text>
         <Text
           as="p"
-          color="rgba(69, 72, 79, 0.70)"
+          color="grey.500"
           fontSize={["12px", null, "xl"]}
           textAlign="center"
+          w="75%"
         >
           Ensure You Maximize Your Return on Investment by Joining Club Connect
           Community
@@ -63,7 +64,12 @@ const BannerCard = (props: BannerCardProps) => {
       }
       borderRadius="10px"
     >
-      <Image src={icon} alt={title} />
+      <Image
+        src={icon}
+        alt={title}
+        h={lastCard ? ["120px", null, "auto"] : ["50px", null, "auto"]}
+        w={lastCard ? ["120px", null, "auto"] : ["50px", null, "auto"]}
+      />
       <Box as="article">
         <Text
           color="black.300"

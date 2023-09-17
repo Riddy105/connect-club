@@ -17,3 +17,4 @@ export { default as partnerships } from "./Icons/partnerships.png";
 export { default as consulting } from "./Icons/consulting.png";
 export { default as advertising } from "./Icons/advertising.png";
 export { default as presentation } from "./Icons/presentation.png";
+export { default as checkIcon } from "./Icons/Check-icon.png";

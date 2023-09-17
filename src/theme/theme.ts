@@ -9,6 +9,8 @@ const theme = extendTheme({
       200: "#D2DADA",
       300: "#45484F",
       400: "rgba(51, 51, 51, 0.70)",
+      500: "rgba(69, 72, 79, 0.70);",
+      600: "#667085",
     },
     black: {
       100: "#000",
@@ -17,6 +19,7 @@ const theme = extendTheme({
     },
     white: {
       100: "#fff",
+      200: "#DFE5E6",
     },
   },
 });
