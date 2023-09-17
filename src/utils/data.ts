@@ -146,3 +146,36 @@ export const TESTIMONIALS = [
     social: twitter,
   },
 ];
+
+export const FAQS = [
+  {
+    question: "What is ClubConnect",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+  {
+    question: "Is it a free or paid Community?",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+  {
+    question: "Can i get a discount when i join the club?",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+  {
+    question: "How do i join Clubconnect?",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+  {
+    question: "Can I offer my services to the ClubCoonect Family?",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+  {
+    question: "What kind of Business can join ClubConnect?",
+    answer:
+      "If you are looking for the right community to grow your business with ease, that is what Club Connect helps you to achieve. Our framework delivers to you strategic connections and tools that will move your business from where you are to where you want to be.",
+  },
+];

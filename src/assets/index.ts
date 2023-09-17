@@ -27,3 +27,5 @@ export { default as instagram } from "./Icons/instagram.png";
 export { default as twitter } from "./Icons/twitter.png";
 export { default as promise } from "./Icons/promise.png";
 export { default as ridwan } from "./Icons/ridwan-selfie.png";
+export { default as plusIcon } from "./Icons/plus-circle.png";
+export { default as minusIcon } from "./Icons/minus-circle.png";

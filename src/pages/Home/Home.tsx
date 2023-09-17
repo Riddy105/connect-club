@@ -1,6 +1,7 @@
 import {
   Banners,
   Carousel,
+  FaqSection,
   HeroSection,
   Packages,
   Partners,
@@ -15,6 +16,7 @@ const Home = () => {
       <Packages />
       <Carousel />
       <Testimonials />
+      <FaqSection />
     </>
   );
 };

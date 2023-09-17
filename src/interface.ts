@@ -9,3 +9,9 @@ export interface PackageBoxProps {
 export interface TestimonialCardProps {
   data: any;
 }
+
+export interface FaqBlockProps {
+  question: string;
+  answer: string;
+  index: number;
+}
