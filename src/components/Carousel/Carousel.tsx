@@ -18,7 +18,7 @@ const Carousel = () => {
         position="absolute"
         top="50%"
         right="20px"
-        transform={[null, null, "translateY(-100%)"]}
+        transform="translateY(-100%)"
       >
         <Image src={rightIcon} alt="Right Icon" />
       </Button>
@@ -28,7 +28,7 @@ const Carousel = () => {
         position="absolute"
         top="50%"
         left="20px"
-        transform={[null, null, "translateY(-100%)"]}
+        transform="translateY(-100%)"
       >
         <Image src={leftIcon} alt="Left Icon" />
       </Button>
