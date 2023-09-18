@@ -40,7 +40,7 @@ const Footer = () => {
           </Flex>
         </Flex>
       </Grid>
-      <Text
+      {/* <Text
         bgColor="green.100"
         py={["14px", null, "18px"]}
         fontSize="16px"
@@ -55,7 +55,7 @@ const Footer = () => {
         >
           Olaniran Ridwan
         </Link>
-      </Text>
+      </Text> */}
     </>
   );
 };

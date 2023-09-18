@@ -104,10 +104,10 @@ export const PACKAGES = [
 
 export const TESTIMONIALS = [
   {
-    name: "Olaniran Ridwan",
-    username: "@rydd_1ne",
+    name: "Promise Olaifa",
+    username: "@omoniyiux",
     text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
-    avatar: ridwan,
+    avatar: promise,
     social: twitter,
   },
   {
@@ -118,10 +118,10 @@ export const TESTIMONIALS = [
     social: facebook,
   },
   {
-    name: "Olaniran Ridwan",
-    username: "@ryyd_1ne",
+    name: "Promise Olaifa",
+    username: "@omoniyiux",
     text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
-    avatar: ridwan,
+    avatar: promise,
     social: instagram,
   },
   {
@@ -132,10 +132,10 @@ export const TESTIMONIALS = [
     social: facebook,
   },
   {
-    name: "Olaniran Ridwan",
-    username: "@rydd_1ne",
+    name: "Promise Olaifa",
+    username: "@omoniyiuxe",
     text: `Absolutely amazing! This product exceeded my expectations. I can't imagine my life without it now`,
-    avatar: ridwan,
+    avatar: promise,
     social: instagram,
   },
   {
