@@ -70,4 +70,4 @@ import Footer from '../../components/Footer/Footer';
 
 import { Header, Footer, Nav} from '../../components';
 
-It is also important to mention that there is a utils folder in src in which you can find a 'data.ts' file. This file contains several data needed in this project such as FAQs, Testimonials, Packages amongst others.
+- It is also important to mention that there is a utils folder in src in which you can find a 'data.ts' file. This file contains several data needed in this project such as FAQs, Testimonials, Packages amongst others.
