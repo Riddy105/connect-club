@@ -56,7 +56,7 @@ I utilised react-router for routing, since this is a landing page. I had a 'Root
 
 - I’d also have asked him to help me group the background image used on the entire body, the grid cells colored grey on the entire page.
 
-## File Structure
+## FILE STRUCTURE
 
 In the src folder, there is a components folder and pages folder basically. These folders are configured in such a way that they have an 'index.ts' file each at their root. This file serves as an export point for all files in the respective folders. i.e If you take a look at the index.ts in the components folder, you'll see there are a lots of export going on there. This is done in order to reduce the number of lines of import we will have to do in another file elsewhere whenever we need any file from "components" folder. This will be better understood if you take a look at "./src/pages/Root/Root.tsx".
 
@@ -69,3 +69,5 @@ import Footer from '../../components/Footer/Footer';
 - But you'll notice that all these files are located inside "components" folder and we are utilising lot of lines to import different things from same folder("components"). We can instead have our import like this which makes our code neater and saves us a lot of lines of relative imports i.e
 
 import { Header, Footer, Nav} from '../../components';
+
+It is also important to mention that there is a utils folder in src in which you can find a 'data.ts' file. This file contains several data needed in this project such as FAQs, Testimonials, Packages amongst others.
