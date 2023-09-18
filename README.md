@@ -46,7 +46,7 @@ ClubConnet landing page has multiple sections which were abstracted as a standal
 
 ## BRIEF APPROACH.
 
-I utilised react-router for routing, since this is a landing page. I had a 'Root' Page where my Nav and Footer components were rendered. This 'Root' component has just a children component 'Home' rendered on the '/' path. The reason for creating this 'Root' component is for future development, another page can be added with ease which will also have the Navigation and Footer.
+I utilised react-router for routing, since this is a landing page. I had a 'Root' Page where my Nav and Footer components were rendered. This 'Root' component has just a child component 'Home' rendered on the '/' path. The reason for creating this 'Root' component is for future development, another page can be added with ease which will also have the Navigation and Footer.
 
 ## CHALLENGES
 
