@@ -24,3 +24,4 @@ const Home = () => {
 };
 
 export default Home;
+// Added comment to Home
